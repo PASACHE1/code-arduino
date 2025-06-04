@@ -1,1 +1,1 @@
-Configuracion iNFORME.ino >> code-arduino.ino
+Configuracion INFORME.ino >> code-arduino.ino
